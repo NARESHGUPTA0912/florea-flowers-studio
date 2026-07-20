@@ -29,52 +29,21 @@ Floréa is designed around the idea that the right flowers can make ordinary day
 * **JavaScript** — Gallery navigation and mobile menu interactions
 
 ## 📸 Website Preview
-
-![Floréa Website Demo](screenshots/screenshots1.gif)
-
-<p align="center">
-  <img src="screenshots/screenshot2.png" width="48%" alt="Floréa Flower Collection">
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot3.png" width="48%" alt="Floréa About Section">
-  <img src="screenshots/screenshot4.png" width="48%" alt="Floréa Contact Section">
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot5.png" width="70%" alt="Floréa Footer">
-</p>
-
-## 🌸 Website Sections
-
-### 🏠 Hero Section
-
 > **LET LIFE BLOOM**
 
-Flowers that feel like poetry.
-
-Curated stems, soft colour palettes, and thoughtful arrangements designed to turn everyday moments into something unforgettable.
-
-### 🌷 Flower Collection
-
-A curated collection of soft palettes, seasonal stems, and graceful florals for meaningful moments.
-
-The collection includes:
-
-* Pink Tulip
-* Pastel Mix
-* Starry Night
-* Pink & White
-* Sunflowers
-* Baby's Breath
-
-### 🌿 Our Story
-
+<p align="center">
+  <img src="screenshots/screenshots1.gif" width="90%" alt="Floréa Website Demo">
+</p>
+> **Flowers that feel like poetry.**
+<p align="center">
+  <img src="screenshots/screenshot2.png" width="48%" alt="Floréa Hero Section">
+  <img src="screenshots/screenshot3.png" width="48%" alt="Floréa Flower Collection">
+</p>
 > **More than flowers. A feeling.**
-
-Welcome to Floréa, a refined flower studio inspired by soft textures, natural blooms, and lasting memories.
-
-From weddings to wellness, our floral arrangements speak in quiet, elegant gestures that turn meaningful moments into cherished stories.
+<p align="center">
+  <img src="screenshots/screenshot4.png" width="48%" alt="Floréa Our Story Section">
+  <img src="screenshots/screenshot5.png" width="48%" alt="Floréa Contact Section">
+</p>
 
 ### 📊 Studio Highlights
 
