@@ -34,12 +34,12 @@ Floréa is designed around the idea that the right flowers can make ordinary day
 <p align="center">
   <img src="screenshots/screenshots1.gif" width="90%" alt="Floréa Website Demo">
 </p>
-> **Flowers that feel like poetry.**
+
 <p align="center">
   <img src="screenshots/screenshot2.png" width="48%" alt="Floréa Hero Section">
   <img src="screenshots/screenshot3.png" width="48%" alt="Floréa Flower Collection">
 </p>
-> **More than flowers. A feeling.**
+
 <p align="center">
   <img src="screenshots/screenshot4.png" width="48%" alt="Floréa Our Story Section">
   <img src="screenshots/screenshot5.png" width="48%" alt="Floréa Contact Section">
