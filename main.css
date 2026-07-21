@@ -81,13 +81,17 @@ a {
   height: 44px;
   padding: 5px;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.88);
+  background: rgba(70, 162, 91, 0.88);
 }
 
 .brand span,
 .footer-brand span {
   font-family: "DM Serif Display", serif;
   font-size: 25px;
+}
+
+.brand span {
+  color: rgba(70, 162, 91, 0.88);
 }
 
 .brand i,
@@ -345,7 +349,10 @@ color: var(--olive);
 .section-description {
 max-width: 300px;
 color: var(--muted);
-font-size: 13px;
+font-size: 24px;
+font-weight: 600;
+font-style: italic;
+font-family: "DM Serif Display", serif;
 line-height: 1.8;
 }
 
@@ -682,7 +689,7 @@ color: var(--dark-olive);
 }
 
 .footer-brand span {
-color: white;
+color: rgba(70, 162, 91, 0.88);
 }
 
 .back-top {
